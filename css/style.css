@@ -456,6 +456,8 @@ html[xmlns] .flexslider .slides { display: block; }
 .commentlist .comment p { font-size: 13px; line-height: 19px; margin-bottom: 0; margin-top: 5px; }
 .commentlist .comment .children { font-size: 100%; margin: 0 0 0 30px; }
 
+.brand { color:#27C0D4; text-shadow: #666 1px 0 1px; }
+
 /* footer */
 #footer { background: #333; color: #bbb; margin-top: 40px; }
 #footer h3 { color: #fefefe; font-weight: bold; text-transform: uppercase; margin: 20px 0; }
