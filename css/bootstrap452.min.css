@@ -569,7 +569,7 @@ pre code {
     overflow-y: scroll
 }
 
-.container,
+/* .container,
 .container-fluid,
 .container-lg,
 .container-md,
@@ -722,7 +722,7 @@ pre code {
     -ms-flex-positive: 1;
     flex-grow: 1;
     max-width: 100%
-}
+} */
 
 .row-cols-1>* {
     -ms-flex: 0 0 100%;
